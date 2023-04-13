@@ -8,3 +8,4 @@
 8. git commit -m "E"
 9.git checkout master
 10.git merge develop -m "F"
+11.git checkout develop
